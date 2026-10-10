@@ -1,16 +1,17 @@
-## Hi there 👋
+## <h1 align="center">¡Hola! Soy Thomas🌲</h1>
 
-<!--
-**Thomas-Pino/Thomas-Pino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👾MUCHAS GRACIAS POR ENTRAR A MI PERFIL, SOBRE MI:👾</h2>
 
-Here are some ideas to get you started:
+💻 Estudiante y desarrollador en formación, interesado en la programación y el hacking etico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Actualmente aprendiendo desarrollo web y un poco de hacking.
+
+📚 Siempre aprendiendo nuevas tecnologías.
+
+🎯 Objetivo: crear proyectos útiles y mejorar mis habilidades.
+
+🛠️ Tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,vscode,linux" height="48" alt="JavaScript, Python, Visual Studio Code y Linux" />
+</p>
