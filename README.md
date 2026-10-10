@@ -4,7 +4,7 @@
 
  💻 Estudiante y desarrollador en formación, interesado en la programación y el hacking etico.
 
-🚀 Actualmente aprendiendo desarrollo web y un poco de hacking.
+🚀 Actualmente estoy aprendiendo desarrollo web y un poco de hacking.
 
 📚 Siempre aprendiendo nuevas tecnologías.
 
